@@ -1,0 +1,41 @@
+    /*JE SUIS UN COMMENTAIRE MONOLIGNE*/
+    body{
+        background-color: rgb(71, 165, 42);}
+        /*je suis une commentaire multiligne*/
+        h1{font-size: 80px;
+       color:#ece920;
+     }
+     h2{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+        ;}
+        #p1{
+            color: beige;
+        }
+            .p1{color: aqua;}
+            p{color: blue;}
+            ul{color: antiquewhite;}
+            
+
+            h5{
+                BORDER: 1px solid black;
+            }
+            .div-para{
+                background-color: red;
+                font-weight: bold;
+            }
+            .span-trois{
+                background-color: red;
+            }
+            .type1{ text-align: center;}
+            .p2{
+                text-align: right;
+            }
+            
+            .transform{
+                text-transform: capitalize;
+                text-decoration: overline;
+            }
+            .boite{ width: 400px;
+                height: 300px;
+                background-color: #ece920;
+
+            }

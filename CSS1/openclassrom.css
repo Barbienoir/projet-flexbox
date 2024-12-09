@@ -1,0 +1,76 @@
+.gauche {
+    text-align: left;
+  }
+  
+  .centre {
+    text-align: center;
+  }
+  
+  .droite {
+    text-align: right;
+  }
+  
+  .thin {
+    font-weight: 100;
+  }
+  
+  .extra-light {
+    font-weight: 200;
+  }
+  
+  .light {
+    font-weight: 300;
+  }
+  
+  .normal {
+    font-weight: 400;
+  }
+  
+  .medium {
+    font-weight: 500;
+  }
+  
+  .semi-bold {
+    font-weight: 600;
+  }
+  
+  .bold {
+    font-weight: 700;
+  }
+  
+  .extra-bold {
+    font-weight: 800;
+  }
+  
+  .black {
+    font-weight: 900;
+  }
+  
+  .underline {
+    text-decoration: underline;
+  }
+  
+  .line-through {
+    text-decoration: line-through;
+  }
+  
+  .overline {
+    text-decoration: overline;
+  }
+  
+  .normal {
+    text-decoration: none;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  body {
+    padding: 16px;
+  }
+  .graduation{
+    background-color: linear-graden(#8360c3#2ebf91);
+    width: 100px;
+    height: 100px;
+  }

@@ -1,0 +1,224 @@
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 5em;
+    text-align: center;
+    color: rgb(26, 2, 26, );
+    background-image:url("../img/Oiseaux1.jpg");
+    background-position: center; 
+    padding: 100px;
+    background-size: cover;
+    background-attachment: fixed;
+    
+        text-shadow: 3px 3px 0px rgba(0,0,0,0.2);
+        
+    }
+
+h2{
+    font-size: 5em;
+    text-align: center;
+    background: linear-gradient(to left, #1CB5E0, #000046);
+    background-size: cover;
+    padding: 100px;
+}
+.oiseaux{
+        border-top: 3px #EB5353 dotted;
+        border-right: 3px #F9D923 double;
+        border-bottom: 3px #36AE7C dashed;
+        border-left: 3px #187498 solid;
+        padding: 5%;
+        text-align: center;
+    }
+    .perruche{
+        font-size: 40px;
+        border-radius: 15px;
+        background-color: rgb(117, 30, 60);
+        text-align: center;
+        padding: 100px;
+    }
+    .shadow:focus{
+         
+            font-size: 25px;
+            background-color: rgb(255, 17, 17);
+            border-radius: 20px;
+            box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5);
+            padding: 100px;
+
+        
+    }
+    .mon-element:hover {
+    
+        background-color: #BEAEE2;
+        color: white;
+    }
+    
+    h3:hover {
+        color: #CDF0EA;
+    }
+    
+    p.hover {
+        color: #F9CEEE;
+    }
+    h2:hover{
+        background-color: #F9D923;
+        
+    }
+    a:hover{
+        color: #8390c3;
+        background-color: lime;
+    }
+    .aîda:hover{
+        background-color: antiquewhite;
+        color: magenta;
+    }
+    .barro:active{
+        background-color: #8390c3;
+        
+    }
+    .focus:focus{
+        background-color: yellow;
+    }
+    *{
+        
+            font-family: "Yuji Mai", serif;
+            font-weight: 400;
+            font-style: normal;
+          }
+          /*
+          * {
+  margin: 0;
+}
+
+body {
+  font-family: 'Manrope', sans-serif;
+  font-size: 1em;
+  background-color: #1f2039;
+}
+
+a {
+  color: #242424;
+  text-decoration: none;
+}
+
+em {
+  color: #a5b4fc;
+  font-style: normal;
+}
+
+h1 {
+  font-size: 3.5em;
+  color: #a5b4fc;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  color: #f9f8ff;
+}
+
+p,
+li {
+  font-size: 1.1em;
+  color: #f9f8ff;
+}
+
+header,
+footer {
+  background-color: white;
+  padding: 20px 50px;
+}
+
+.cta {
+  background: linear-gradient(#8e86b5, #acaeed);
+  color: white;
+  border-radius: 50px;
+  padding: 20px 30px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.cta:hover {
+  background: linear-gradient(#696484, #8788ba);
+  text-decoration: none;
+}
+
+.lien-icone:hover {
+  opacity: 0.5;
+}
+
+.carre-contenu {
+  border-right: 1px solid #8e86b5;
+  border-bottom: 1px solid #8e86b5;
+  padding: 50px;
+}
+
+.carre-contenu h2 {
+  margin-top: 30px;
+}
+
+.carre-contenu ul {
+  margin-top: 30px;
+}
+
+section {
+  padding: 80px;
+}
+
+.a-propos-main {
+  width: 50%;
+  margin: auto;
+}
+
+la page html
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8" >
+    <title>Accueil - Robbie Lens Photographie</title>
+    <link href="style.css" rel="stylesheet" >
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope&family=Montserrat&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <img src="images/logo.png" alt="Logo Robbie Lens" >
+            <a href="index.html">Accueil</a>
+            <a href="a-propos.html">À propos</a>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h1>Robbie Lens Photographie</h1>
+            <p>
+                Où <em>professionalisme</em> s’allie avec <em>passion</em>. Depuis
+                plus de 5 ans maintenant, j’exerce mon métier avec la passion
+                qui m’anime : capturer l’essence de chaque instant.
+            </p>
+            <img src="images/robbie-lens.png" alt="Portrait avec effet de la photographe Robbie Lens" >
+            <div>
+                <a href="" class="cta">UN PROJET ? ÉCRIVEZ-MOI</a>
+            </div>
+        </section>
+        <section>
+            <h2>Mon dernier projet</h2>
+        </section>
+    </main>
+    <footer>
+        <img src="images/logo.png" alt="Logo Robbie Lens" >
+        <a target="_blank" href="https://twitter.com/" class="lien-icone">
+            <img src="images/twitter.png" alt="Logo Twitter" >
+        </a>
+        <a target="_blank" href="https://www.instagram.com/" class="lien-icone">
+            <img src="images/instagram.png" alt="Logo Instagram" >
+        </a>
+    </footer>
+</body>
+
+</html>
+          */
+          
+    
